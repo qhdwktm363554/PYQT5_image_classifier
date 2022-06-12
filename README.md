@@ -12,6 +12,7 @@ features:
 required features:
   1. keyboard manipulation (current: only mouse pointer is available)
   2. working directory designation (current: only works on the directory having exe file)
+  3. exe file creation
 
 please ask on: 
   qhdwktm3635@gmail.com
