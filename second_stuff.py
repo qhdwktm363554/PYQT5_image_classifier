@@ -142,7 +142,7 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "information: to be updated"))
 
 # import icon_rc
-
+# this paragraph is going to be the first
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
